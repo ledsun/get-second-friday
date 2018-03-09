@@ -1,0 +1,23 @@
+{
+  "name": "get-second-friday",
+  "version": "0.0.1",
+  "description": "A function to get date of the second friday of specified month",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledsun/get-second-friday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ledsun/get-second-friday/issues"
+  },
+  "homepage": "https://github.com/ledsun/get-second-friday#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
